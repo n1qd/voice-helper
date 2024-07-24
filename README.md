@@ -1,14 +1,5 @@
-# Offline-Voice-Assistant-with-Machine-Learning-on-python
+# Offline Voice Assistant with Machine Learning on python
 
-Голосовой ассистент "Крендель"
-
-from YT channel PythonHubStudio
-
-python 3.8 и выше.
-
-Распаковать в проект языковую модель vosk
-
-Требуется:
 
 pip install vosk
 
@@ -23,14 +14,6 @@ pip install pyttsx3
 pip install requests
 
 
-#На Linux-ax, скорее всего нужно еще, если ошибка pyttsx3:
-
-#sudo apt update && sudo apt install espeak ffmpeg libespeak1
-
-#https://github.com/nateshmbhat/pyttsx3
-
-
-Для получения справки, спроси у него 'Что ты умеешь Крендель?' или 'справка Крендель'
 
 
 Ссылки на библиотеки и доп материалы:
